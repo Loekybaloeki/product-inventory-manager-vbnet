@@ -1,0 +1,12 @@
+A complete VB.NET Windows Forms application with SQL Server database.
+
+## Features
+- Add, view, update, and delete products
+- Toggle product status
+- Input validation
+- SQL Server database integration
+
+## Technologies
+- VB.NET / Windows Forms
+- SQL Server LocalDB
+- ADO.NET
